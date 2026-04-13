@@ -100,13 +100,9 @@ Contribuições são bem-vindas! Se você quiser melhorar o projeto:
 4. Push para a branch (`git push origin feature/nova-funcionalidade`).
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes (se aplicável).
-
 ## Autor
 
-Desenvolvido por [Seu Nome]. Para dúvidas ou sugestões, entre em contato via [seu-email@example.com].
+Desenvolvido por Renan Bezerra, aluno da Fiap no cuso de IA. Para dúvidas ou sugestões, entre em contato via renanbezerra1208@gmail.com.
 
 ---
 
