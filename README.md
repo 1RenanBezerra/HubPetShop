@@ -1,4 +1,4 @@
-# HubPetShop_SemIntegraçãoOracle
+# Hub PetShop
 
 ## Descrição
 
